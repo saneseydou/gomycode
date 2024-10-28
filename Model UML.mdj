@@ -1005,9 +1005,9 @@
 										"$ref": "AAAAAAGSuf6YBz18xFg="
 									},
 									"font": "Arial;18;0",
-									"left": 233,
+									"left": 223,
 									"top": 154,
-									"width": 74.5224609375,
+									"width": 95.5458984375,
 									"height": 18,
 									"alpha": 1.5707963267948966,
 									"distance": 15,
@@ -1015,7 +1015,7 @@
 										"$ref": "AAAAAAGSuf6YCD2AdKY="
 									},
 									"edgePosition": 1,
-									"text": "+work for"
+									"text": "+implication"
 								},
 								{
 									"_type": "EdgeLabelView",
@@ -2334,19 +2334,6 @@
 							"headQualifiersCompartment": {
 								"$ref": "AAAAAAGSuhJTQIVo+VI="
 							}
-						},
-						{
-							"_type": "UMLTextView",
-							"_id": "AAAAAAGSujKTnp568GI=",
-							"_parent": {
-								"$ref": "AAAAAAFF+qBtyKM79qY="
-							},
-							"font": "Arial;13;0",
-							"left": 638,
-							"top": 90,
-							"width": 100,
-							"height": 25,
-							"text": "Text"
 						}
 					]
 				},
@@ -2909,7 +2896,7 @@
 							"_parent": {
 								"$ref": "AAAAAAGSue+KFDwH7G8="
 							},
-							"name": "work for",
+							"name": "implication",
 							"end1": {
 								"_type": "UMLAssociationEnd",
 								"_id": "AAAAAAGSuf6YCD19Lwc=",
